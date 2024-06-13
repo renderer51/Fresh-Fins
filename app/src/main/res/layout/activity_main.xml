@@ -39,11 +39,11 @@
             app:boxStrokeWidth="2dp"
             app:hintTextColor="#006A62"
             android:enabled="true"
-            android:hint="Username">
+            android:hint="Phone Number">
 
         <com.google.android.material.textfield.TextInputEditText
                 android:layout_width="match_parent"
-                android:inputType="text"
+                android:inputType="phone"
                 android:layout_height="wrap_content"/>
 
     </com.google.android.material.textfield.TextInputLayout>

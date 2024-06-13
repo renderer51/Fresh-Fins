@@ -32,6 +32,7 @@
             android:backgroundTint="#9df2e7"
             android:textSize="25sp"
             app:strokeColor="#00423D"
+            android:padding="25dp"
             app:strokeWidth="2dp"
             android:layout_marginHorizontal="35dp"
             style="@style/Widget.Material3.Button.OutlinedButton.Icon"/>
@@ -42,6 +43,7 @@
             android:text="Customer"
             android:textColor="#00423D"
             android:backgroundTint="#9df2e7"
+            android:padding="25dp"
             android:layout_marginTop="20dp"
             android:textSize="25sp"
             app:strokeColor="#00423D"
