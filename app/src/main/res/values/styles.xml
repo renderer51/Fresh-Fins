@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.App" >
+        <item name="colorSurface">@color/md_theme_tertiary</item>
+        <item name="colorOnSurface">@color/md_theme_tertiaryContainer</item>
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+        <item name="textAppearanceTitleLarge">@style/TextAppearance.App.TitleLarge</item>
+        <item name="textAppearanceTitleMedium">@style/TextAppearance.App.TitleMedium</item>
+    </style>
+
+    <style name="TextAppearance.App.TitleLarge" parent="TextAppearance.Material3.TitleLarge">
+        <item name="fontFamily">@font/k2d_semibold</item>
+        <item name="android:fontFamily">@font/k2d_semibold</item>
+    </style>
+
+    <style name="TextAppearance.App.TitleMedium" parent="TextAppearance.Material3.TitleMedium">
+        <item name="fontFamily">@font/k2d_semibold</item>
+        <item name="android:fontFamily">@font/k2d_semibold</item>
+    </style>
+    <style name="Theme">Theme</style>
+</resources>
