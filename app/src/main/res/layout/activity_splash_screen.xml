@@ -36,7 +36,6 @@
             android:layout_height="wrap_content"
             app:trackThickness="10dp"
             app:trackCornerRadius="10dp"
-            app:showAnimationBehavior="outward"
             app:trackStopIndicatorSize="0dp"
             app:indicatorTrackGapSize="5dp"
             app:indicatorColor="#136C56"
